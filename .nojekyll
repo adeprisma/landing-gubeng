@@ -1,0 +1,2 @@
+type nul > .nojekyll
+touch .nojekyll
