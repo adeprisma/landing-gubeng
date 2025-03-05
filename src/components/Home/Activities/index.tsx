@@ -16,7 +16,7 @@ const Activities = () => {
                     {ActivitiesData.map((items, i) => (
                         <div className='p-8 relative rounded-3xl bg-gradient-to-b from-black/5 to-white dark:from-white/5 dark:to-black' key={i}>
                             <div className='work-img-bg rounded-full flex justify-center absolute -top-[50%] sm:top-[-20%] md:top-[-55%] lg:top-[-20%] left-[26%]'>
-                                <Image src="/images/logo/gkjw_surabaya.png" alt='/images/logo/gkjw_surabaya.png' width={150} height={0} />
+                               <Image src="/landing-gubeng/images/logo/gkjw_surabaya.png" alt='/images/logo/gkjw_surabaya.png' width={150} height={0} />
                             </div>
                             <h3 className='text-2xl text-black dark:text-white font-semibold text-center mt-16'>{items.heading}</h3>
                             <p className='text-lg font-normal text-black/50 dark:text-white/50 text-center mt-2'>{items.subheading}</p>

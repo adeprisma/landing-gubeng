@@ -12,7 +12,7 @@ const Chief = () => {
                 </div>
                 <div className='grid grid-cols-1 lg:grid-cols-12 my-16 space-x-5'>
                     <div className='col-span-6 flex justify-start'>
-                        <Image src="/images/chief/chief_empty.png" alt="nothing" width={636} height={808} />
+                        <Image src="/landing-gubeng/images/chief/chief_empty.png" alt="nothing" width={636} height={808} />
                     </div>
                     <div className='col-span-6 flex flex-col justify-center'>
                         <p className='text-primary text-lg font-normal mb-3 tracking-widest uppercase text-start'>Ibadah Minggu</p>
