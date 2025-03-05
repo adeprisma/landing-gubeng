@@ -11,9 +11,8 @@ const Logo: React.FC = () => {
       <Image
         src="/images/logo/gkjw_surabaya.png"
         alt="logo"
-        width={60}
+        width={70}
         height={0}
-        style={{ width: 'auto', height: 'auto' }}
         quality={100}
       />
     </Link>
